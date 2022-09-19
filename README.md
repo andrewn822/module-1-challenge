@@ -6,8 +6,9 @@ This homework module 1 was designed for us to start with a starter code and our 
 
 ## Installation
 
-SSH: git clone git@github.com:Xenon789/module-1-challenge.git
-HTTPS: git clone https://github.com/Xenon789/module-1-challenge.git
+SSH: git@github.com:andrewn822/module-1-challenge.git
+
+HTTPS: https://github.com/andrewn822/module-1-challenge.git
 
 ## Usage
 
